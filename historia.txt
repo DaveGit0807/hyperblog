@@ -7,3 +7,6 @@ HOy veremos mas capitulos sobre el tema de git en la plataforma
 git es la plataforma de administracion de codigo
 
 Mañana toca fiesta en la escuela de isa ay que comprar el regalo
+
+
+Estos cambios son desde la maquina de Ubuntu
